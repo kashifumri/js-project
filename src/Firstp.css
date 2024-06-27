@@ -1,0 +1,20 @@
+.fdiv{
+    text-align: center;
+    color:brown;
+    padding:20px;
+    position:relative;
+    box-sizing: border-box;
+}
+.small-div{
+    text-align:center;
+    position:absolute;
+    left:49%;
+    transform:translate(-48%,-42%);
+}
+.box{
+    width:300px;
+    height:130px;
+    background-color: yellow;
+    border-radius: 10px;
+
+}
