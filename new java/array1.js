@@ -1,0 +1,12 @@
+var countries=["india","pakistan","bhutan","japan","nepal",3];
+var states=new Array("haryana","delhi","mumbai","up","uk");
+//console.log(countries);
+states[2]="mp";
+console.log(states);
+states.pop();
+console.log(states);
+countries.unshift("new entry ");
+console.log(countries);
+countries.shift();
+console.log(countries);
+console.log(countries.indexOf("bhutan"));

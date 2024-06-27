@@ -1,0 +1,44 @@
+
+.head{
+    text-align: center;
+}
+.mainhead{
+    display:inline-block;
+    margin:0px;
+    font-family:sans-serif;
+    
+    
+}
+.heading{
+    
+    border: solid 2px;     
+        width:300px;
+       text-align:center;
+       text-transform:uppercase;
+    
+}
+
+.click{
+    background-color:grey;
+    color:black;
+
+    
+    
+}
+.clickme{
+    text-align:center;
+}
+.back{
+    background-color:grey;
+    text-align: center;
+    
+  
+
+
+   
+    
+}
+body{
+    
+
+}

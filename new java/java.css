@@ -1,0 +1,50 @@
+.main{
+    text-align:right;
+    
+    margin-top:5px;
+    
+    
+}
+.color{
+    display:inline-block;
+    text-align:center;
+    margin: 300px 500px;
+}
+.red{
+    background-color:red;
+    
+    height:15px;
+    width:40px;
+    margin:5px;
+}
+.blue{
+    background-color:blue;
+    height:15px;
+    width:40px;
+    margin:5px;
+}
+.yellow{
+    background-color:yellow;
+    height:15px;
+    width:40px;
+    margin:5px;
+}
+.orange{
+    background-color:orange;
+    height:15px;
+    width:40px;
+    margin:5px;
+   
+    
+}
+.h1{
+    text-align:center;
+}
+.h2{
+    font-size: 20px;
+    
+    text-align: left;
+}
+.flavour{
+
+}

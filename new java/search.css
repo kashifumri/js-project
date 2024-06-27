@@ -1,0 +1,26 @@
+.main{
+    /*background-image:linear-gradient(rgba(163, 48, 48,0.4),rgba(163, 48, 48,0.4)),url("/img/challenges.jpg");*/
+    background-image:url("/img/challenges.jpg");
+    margin:0px;
+    padding:0px 0px;
+}
+.img{
+    width:20px;
+    height:20px;
+
+}
+.btn{
+    width:20px;
+    height:20px;
+    padding:0px;
+      
+}
+.search-bar{
+    margin:0px;
+}
+.input{
+   
+}
+.btn{
+    display:inline-block;
+}
