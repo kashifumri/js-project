@@ -1,0 +1,103 @@
+
+
+h1{
+   text-align:center;
+    font-size:25px;
+    padding:20px;
+    background-color: rgb(240, 196, 143);
+}
+img{
+    padding:8px;
+}
+#h32{
+    font-size:15px;
+    padding:3px 10px;
+    color:rgb(161, 153, 11);
+    
+}
+.product{
+    padding:10px;
+    font-size:20px;
+    font-stretch: underline;
+    color:rgb(19, 170, 152)
+}
+
+button{
+    background-color:rgb(236, 203, 113);
+    border-color:rgb(4, 93, 149) ;
+    
+    padding: 10px 50px;
+    width:200px;
+}
+.container{margin-bottom:45px;
+    border:solid 4px;
+    position:relative;
+    width:700px;
+    margin-right:auto;
+    margin-left:auto;
+    background-color:rgb(238, 234, 238);
+    line-height:.75px;
+   
+    
+} 
+ .sale {   
+   background-color:red;
+   color:white;
+   position:absolute;
+   top:-20px;
+   left:-16px; 
+    }
+    .red{
+        background-color:red;
+        height:15px;
+        width:15px;
+        margin:2px;
+    }.blue{
+        background-color:blue;
+        height:15px;
+        width:15px;
+        margin:2px;
+    }
+    .brown{
+        background-color:brown;
+        height:15px;
+        width:15px;
+        margin:2px;
+
+    }
+    .yellow{
+        background-color:yellow;
+        height:15px;
+        width:15px;
+        margin:2px;
+    }
+    .color{
+        display: inline-block;
+        margin: 2px 8px;
+    }
+    .morei{
+        margin-left:8px;
+        font-size:17px;
+    }
+    .h0{
+        
+    }
+    .h1{
+        
+    }
+    .h12{
+        
+        
+    }
+    .h2{
+        
+    }
+    .only-h1{
+        display:flex;
+        align-items:center;
+        flex-direction:justify; 
+
+    }
+    .button{
+        clear:both;
+    }

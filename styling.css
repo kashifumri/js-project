@@ -1,0 +1,132 @@
+ h1,h2,h3,h4,h5{
+    color:rgb(6, 182, 206);
+text-align:center;
+font-family:sans-serif;
+text-transform:uppercase;
+padding:10px 30px;
+}
+.h1{
+    margin:0px ;
+    font-style:italic;
+    float:left;
+    
+}
+h2{/*background-color: orange;*/
+    clear:left;
+    position:relative;
+}
+h2::after{
+    content:"top";
+    background-color: yellow;
+    font-size:15px;
+    position:absolute;
+    top: -25px;
+    right:-20px;
+    display:inline;
+    padding:5px 10px;
+}
+p{
+    font-family:sans-serif;
+    text-align:center;
+    
+}
+.imgstrong{
+    text-align:left;
+
+}
+li:first-child{
+    font-weight:bold;
+}
+li:nth-child(2){
+    font-weight:bold;
+    color:rgb(125, 126, 126);
+}
+.heh{ background-color:rgb(240, 239, 239);
+   /* border-top:  4px solid rgb(33, 238, 190);*/
+  margin:20px 0px; 
+
+}
+.header2{
+    /* background-color: rgb(245, 243, 245);
+     border-bottom: 4px solid rgb(84, 224, 234);
+     border-top:4px  dotted rgb(205, 184, 50)
+    */}
+a:link{
+    color:blue;
+    text-decoration: none;
+    font-weight:bold;
+    background-color: bisque;
+    pointer:cursor;
+    
+}
+a:visited{
+    font-style:italic;
+    text-decoration:underline dotted;
+    color:purple;
+    
+}
+a:active{
+    
+    background-color:orange;
+}
+a:hover{
+    text-decoration:underline wavy orangered;
+    color:olivedrab;
+}
+.centered{
+   
+   width:1200px;
+    margin-right:auto;
+    margin-left:auto;
+    
+}
+.img1{text-align:left;
+    float:left;
+}
+.img2{    
+    text-align:center;
+}
+
+.heh a:link{
+   /* display:block;
+    padding:20px;
+    margin:20px;*/
+    margin:0px 60px;
+    
+    display:inline-block;
+    margin-top:60px;
+}
+
+.p1{
+    text-align:left;
+    margin:50px 60px;
+    
+    
+}
+.bullets{
+    padding:0px;
+    list-style:none;
+}
+.header3{
+    background-color: rgb(245, 243, 245);
+     border-bottom: 4px solid rgb(11, 164, 175);
+     border-top:4px  dotted rgb(26, 202, 208);
+     float:right;
+     padding:30px;
+     margin:px;
+     width:300px;
+     box-sizing:border-box;
+     
+    }
+article{
+    background-color:rgb(243, 241, 243) ;
+    width:850px;
+    float:left;
+    margin:px;
+    
+}
+
+footer{
+    float:center;
+    clear:both;
+}
